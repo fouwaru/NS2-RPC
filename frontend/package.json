@@ -1,6 +1,6 @@
 {
-  "name": "ns-rpc",
-  "version": "1.0.2",
+  "name": "ns2-rpc",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "vite",
