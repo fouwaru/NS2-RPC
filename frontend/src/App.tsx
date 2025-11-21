@@ -87,7 +87,7 @@ const App: Component = () => {
             </h1>
           </div>
           <p class="text-center text-pink-100 mt-2">Discord Rich Presence for Nintendo Switch & Nintendo Switch 2</p>
-          <p class="text-center text-sm text-pink-100 mt-2">Fork by @PunchArm255 | Original by @Da532</p>
+          <p class="text-center text-sm text-pink-100 mt-2">Forked by Fouwaru</p>
         </div>
       </div>
 
