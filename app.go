@@ -233,6 +233,7 @@ func (a *App) GetSwitch2Games() string {
 		{"title": "Home", "img": "home"},
 		{"title": "Mario Kart World", "img": "mkw"},
 		{"title": "Cyberpunk 2077: Complete Edition", "img": "cp2077"}
+		{"title": "Pokémon Legends: Z-A", "img": "plza"}
 	]`
 	return switch2Games
 }
