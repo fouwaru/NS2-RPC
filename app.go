@@ -35,7 +35,7 @@ var connErr bool = false
 
 const switch1ClientID string = "1114647533562646700"
 const switch2ClientID string = "1420215431465140285"
-const gamesURL string = "https://raw.githubusercontent.com/Da532/NS-RPC/master/games.json"
+const gamesURL string = "https://raw.githubusercontent.com/fouwaru/NS2-RPC/refs/heads/master/games.json"
 
 func NewApp() *App {
 	return &App{}
